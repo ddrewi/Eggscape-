@@ -1,5 +1,5 @@
 # Eggscape!
-A mobile platformer game made in Unity, stored on Plastic SCM.
+A 2D mobile platformer game made in Unity, stored on Plastic SCM.
 
 A chicken wakes to find itself stuck in a meat-processing facility. Can it navigate and overcome the facility's obstacles and guards to escape?
 
