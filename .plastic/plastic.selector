@@ -1,0 +1,4 @@
+repository "Eggscape!@ChickenMan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
